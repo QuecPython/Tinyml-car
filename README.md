@@ -66,7 +66,7 @@ Before you start, please ensure you have the following prerequisites:
 1. **Clone the repository**:
 
 ```plaintext
-git clone https://github.com/aaronchenzhihe/Tinyml-car.git
+git clone https://github.com/QuecPython/Tinyml-car.git
 ```
 
    2.**Flash the firmware**: Flash the firmware to the development board according to the instructions.
